@@ -4,9 +4,9 @@ I am a computational postdoc and software developer at Cold Spring Harbor Labora
 
 Projects I am currently working on
 
-- [https://mpathic.readthedocs.io] (https://mpathic.readthedocs.io)
-- [https://suftware.readthedocs.io] (https://suftware.readthedocs.io)
-- [https://logomaker.readthedocs.io] (https://suftware.readthedocs.io)
+- [https://mpathic.readthedocs.io](https://mpathic.readthedocs.io)
+- [https://suftware.readthedocs.io](https://suftware.readthedocs.io)
+- [https://logomaker.readthedocs.io](https://suftware.readthedocs.io)
 
 Previous papers
 
