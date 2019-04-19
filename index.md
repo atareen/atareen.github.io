@@ -6,7 +6,7 @@ Projects I am currently working on
 
 - [https://mpathic.readthedocs.io](https://mpathic.readthedocs.io)
 - [https://suftware.readthedocs.io](https://suftware.readthedocs.io)
-- [https://logomaker.readthedocs.io](https://suftware.readthedocs.io)
+- [https://logomaker.readthedocs.io](https://logomaker.readthedocs.io)
 
 Previous papers
 
