@@ -6,15 +6,17 @@ title: Ammar's homepage
 
 I am a joint computational postdoc and software developer in bio-physics at Cold Spring Harbor Laboratory. I am interested in using machine learning methods to understand sequence-function relationships in massively parallel assays. I am also interested in developing methods that help interpret the black-box nature of neural networks. 
 
-Projects I am currently working on
+Papers and preprints
 
-- [https://mpathic.readthedocs.io](https://mpathic.readthedocs.io)
-- [https://suftware.readthedocs.io](https://suftware.readthedocs.io)
-- [https://logomaker.readthedocs.io](https://logomaker.readthedocs.io)
+- [Biophysical models of cis-regulation as interpretable neural networks, MLCB 2019] (https://www.biorxiv.org/content/10.1101/835942v1)
+- [Logomaker: Beautiful sequence logos in python, Biorxiv preprint 2019] (https://www.biorxiv.org/content/10.1101/635029v1)
+- (Modeling Evolution of Crosstalk in Noisy Signal Transduction Networks) (https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.020402)
+- [Density Estimation on Small Data Sets](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.160605)
+- [Asymmetry between Activators and Deactivators in Functional Protein Networks](https://arxiv.org/abs/1807.09431)
+- [Configurations and Path Planning of Convex Planar Polygonal Loops](https://link.springer.com/chapter/10.1007/978-3-642-36279-8_4)
 
-Previous papers
+Python packages
 
-- [https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.020402](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.020402)
-- [https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.160605](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.160605)
-- [https://arxiv.org/abs/1807.09431](https://arxiv.org/abs/1807.09431)
-- [https://link.springer.com/chapter/10.1007/978-3-642-36279-8_4](https://link.springer.com/chapter/10.1007/978-3-642-36279-8_4)
+- [MPAthic](https://mpathic.readthedocs.io)
+- [SUFTware](https://suftware.readthedocs.io)
+- [Logomaker](https://logomaker.readthedocs.io/)
