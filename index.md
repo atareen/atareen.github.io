@@ -9,3 +9,5 @@ I am interested in using machine learning methods to understand sequence-functio
 I am also interested in developing methods that help interpret the black-box nature of neural networks. 
    
 ![bp_nn.png](bp_nn.png)
+![mpathic.png](mpathic.png)
+![logomaker.png](logomaker.png)
