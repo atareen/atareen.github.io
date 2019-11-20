@@ -8,7 +8,7 @@ I am a joint computational postdoc and software developer in bio-physics at Cold
 I am interested in using machine learning methods to understand sequence-function relationships in massively parallel assays. 
 I am also interested in developing methods that help interpret the black-box nature of neural networks. 
    
-<img src="bp_nn.png" width="400" height="300">
+<img src="bp_nn.png" width="450" height="300">
 
 Inference of a thermodynamic model from MPRA data. (A) Schematic of the sort-seq MPRA of. A
 75bp region of the E. coli lac promoter was mutagenized at 12% per nucleotide. Variant promoters were then used to
