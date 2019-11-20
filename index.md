@@ -9,6 +9,7 @@ I am interested in using machine learning methods to understand sequence-functio
 I am also interested in developing methods that help interpret the black-box nature of neural networks. 
    
 ![bp_nn.png](bp_nn.png =300x)
+<img src="bp_nn.png" width="300" height="300">
 
 Inference of a thermodynamic model from MPRA data. (A) Schematic of the sort-seq MPRA of. A
 75bp region of the E. coli lac promoter was mutagenized at 12% per nucleotide. Variant promoters were then used to
