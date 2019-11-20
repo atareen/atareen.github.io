@@ -8,7 +8,7 @@ I am a joint computational postdoc and software developer in bio-physics at Cold
 I am interested in using machine learning methods to understand sequence-function relationships in massively parallel assays. 
 I am also interested in developing methods that help interpret the black-box nature of neural networks. 
    
-![bp_nn.png](bp_nn.png)
+![bp_nn.png](bp_nn.png =300x)
 
 Inference of a thermodynamic model from MPRA data. (A) Schematic of the sort-seq MPRA of. A
 75bp region of the E. coli lac promoter was mutagenized at 12% per nucleotide. Variant promoters were then used to
@@ -21,5 +21,5 @@ parameter values inferred for the CRP energy matrix C, the RNAP energy matrix R,
 energy delta GI . Since increasingly negative energy corresponds to stronger binding, they y-axis in the logo plots is
 inverted. Logos were generated using Logomaker
 
-![mpathic.png](mpathic.png)
-![logomaker.png](logomaker.png)
+![mpathic.png](mpathic.png  =300x)
+![logomaker.png](logomaker.png  =300x)
