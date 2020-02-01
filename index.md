@@ -21,5 +21,6 @@ parameter values inferred for the CRP energy matrix C, the RNAP energy matrix R,
 energy delta GI . Since increasingly negative energy corresponds to stronger binding, they y-axis in the logo plots is
 inverted. Logos were generated using Logomaker
 
-<img src="mpathic.png" width="400" height="300">
-<img src="logomaker.png" width="400" height="300">
+<img src="mpathic.png">
+<img src="logomaker.png">
+<!-- <img src="logomaker.png" width="400" height="300"> -->
